@@ -4,6 +4,7 @@
 - [Git](https://git-scm.com/) only for cloning the repo
 - [linesofaction-backend](https://github.com/olni0002/pyLOA.git)
 - [Node.js](https://nodejs.org/en/download)
+- [Expo Go](https://expo.dev/go)
 
 ## Running
 Clone this repository and enter the directory
@@ -16,5 +17,4 @@ Install dependencies and run
 npm install
 npm start
 ```
-
-Setup instructions for the backend are found in the projects README
+Open the app in Expo Go. Setup instructions for the backend are found in the projects README.
